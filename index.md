@@ -1,21 +1,16 @@
-# Header 1
+---
+layout: default
+title: Home
+---
 
-Test
+# Home
 
-# Header 2
+Hi, I am Paul Oates, a recent Ethical Hacking graduate. Here you will find all my university work plus other projects I get up to.
 
-test 2 
+## [University Work](University/index.md)
 
-# Header 3
+Here is my university work. Please use this only as inspiration or as a helpful guide. :-)
 
-Test 3
+## [Projects](Projects/index.md)
 
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Here you will find the projects I get up to in my free time.
