@@ -14,10 +14,9 @@ Practical
     - AN RTC module
     - An LED and Key expansion module
     - And a multi sensor cobber
-
-    A full description can be found here [WeMos weather station](WeMos_hand_in.pdf) \
-
-    Code can be found here [Code](WeMos.ino)
+    
+A full description can be found here [WeMos weather station](WeMos_hand_in.pdf) \
+Code can be found here [Code](WeMos.ino)
 
 Quiz
 
