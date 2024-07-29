@@ -13,7 +13,7 @@ This module further develops an understanding of computer programming and softwa
     - Coding Exercises
     - Software Design Exercises
     - Darts (501)
-        - Icreated a program which simulates a game of darts
+        - I created a program which simulates a game of darts
         - Code can be found here:
             - [Dartboard](dartboard.cpp) 
             - [DartboardH](dartboard.h)
@@ -26,8 +26,7 @@ This module further develops an understanding of computer programming and softwa
 
 
 ### Overall Result 
-
 B
 
 #### Comments
-Failing to do the fundamentals here costs you greatly. My darts program imo is great but I never included the basic requirements which cost me. 
+Failing to do the fundamentals here costs you greatly. Include the basic requirements. 

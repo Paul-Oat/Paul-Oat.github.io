@@ -14,7 +14,7 @@ This module aims to develop an understanding of Computer Networking
     - Wireshark FTP
     - IP Address Calculation
     - Network Exercise 
-    - Python Networking : 
+    - Python Networking
 
 - Quiz 
 

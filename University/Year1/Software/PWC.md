@@ -19,7 +19,7 @@ This module aims to develop an understanding programming with C++
 
     - Cyber Pet
         - I created a Cyber Pet similar to a the Tamagotchi toy from the 1990's
-        - Code can be found here [Cyber Pet](Robby.cpp)
+        - Code can be found here: [Cyber Pet](Robby.cpp)
 
 - Quiz
     - Weekly Quizzes
