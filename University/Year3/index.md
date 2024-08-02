@@ -7,9 +7,10 @@ title: Third Year
 
 Here are the modules and projects I completed in my Third year.
 
-### [Module 1](Module1.md)
-### [Module 2](Module2.md)
-### [Module 3](Module3.md)
-### [Module 4](Module4.md)
-### [Module 5](Module5.md)
-### [Module 6](Module6.md)
+### [CMP319 - Web Application Penetration Testing ](Web/WAPT.md)
+### [CMP314 - Computer Networking 2 ](Network/CN2.md)
+### [CMP320 - Advanced Ethical Hacking ](Hacking/AEH.md)
+### [CMP309 - Software Development for Mobile Devices ](Mobile/SDMD.md)
+### [CMP308 - Professional Project Planning and Prototyping ](Group/PPPP.md)
+### [CMP311 - Professional Project Development and Delivery ](Group2/PPDD.md)
+
