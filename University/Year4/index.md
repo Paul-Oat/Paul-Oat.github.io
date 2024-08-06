@@ -7,9 +7,12 @@ title: Fourth Year
 
 Here are the modules and projects I completed in my Fourth year.
 
-### [Module 1](Module1.md)
-### [Module 2](Module2.md)
-### [Module 3](Module3.md)
-### [Module 4](Module4.md)
-### [Module 5](Module5.md)
-### [Module 6](Module6.md)
+### [CMP408 - IoT and Cloud Secure Development](IOT/IOT.md)
+### [CMP416 - Advanced Digital Forensics](ADF/ADF.md)
+### [CMP400 - Honours Project Proposal and Execution](HPPE/HPPE.md)
+### [CMP403 - Honours Project Dissertation](HPD/HPD.md)
+### [CMP417 - Engineering Resilient Systems 1](ERS/ERS.md)
+
+At the end of my degree, I graduated with First Class honors and a GPA of 4.15. Thank you to everyone who supported me throughout my journey.
+# Fin  
+

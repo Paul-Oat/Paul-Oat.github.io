@@ -9,21 +9,16 @@ title: First Year - Programming with C++
 
 ### Coursework
 This module aims to develop an understanding programming with C++ 
+**Practical**
 
-- Practical
+- Three lab exercises
+    - Dice simulation [Dice](Dice.cpp)
+    - Fibreglass Tool [Fibreglass](Fiberglass.cpp)
+    - Array Sort [Array](Sort.cpp)
 
-    - Three lab exercises
-        - Dice simulation [Dice](Dice.cpp)
-        - Fibreglass Tool [Fibreglass](Fiberglass.cpp)
-        - Array Sort [Array](Sort.cpp)
-
-    - Cyber Pet
-        - I created a Cyber Pet similar to a the Tamagotchi toy from the 1990's
-        - Code can be found here: [Cyber Pet](Robby.cpp)
-
-- Quiz
-    - Weekly Quizzes
-
+- Cyber Pet
+    - I created a Cyber Pet similar to a the Tamagotchi toy from the 1990's
+    - Code can be found here: [Cyber Pet](Robby.cpp)
 
 ### Overall Result 
 
